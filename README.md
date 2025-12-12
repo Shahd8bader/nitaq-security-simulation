@@ -55,12 +55,15 @@ The repository expects the following files (already provided):
 ## Installation | التثبيت
 bash
 # Clone repo
+```
 git clone https://github.com/yourusername/nitaq-ai-security.git
 cd nitaq-ai-security
+```
 
 # Install dependencies
+```
 pip install -r requirements.txt
-`
+```
 
 > **Note:** OAK-D requires `depthai` installed.
 
@@ -71,9 +74,9 @@ pip install -r requirements.txt
 ## Running the System | تشغيل النظام
 
 bash
+```
 python python1.py
-
-
+```
 This will:
 
 1. Start the OAK-D RGB preview
