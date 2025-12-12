@@ -9,6 +9,10 @@ The system integrates digital-twin concepts with live object detection to help i
 
 ---
 
+
+https://github.com/user-attachments/assets/b58f6efe-d9c5-4ce2-ace7-921ef7c39986
+
+
 ## Features | المميزات
 
 - **YOLOv4 Real-Time Detection**  
