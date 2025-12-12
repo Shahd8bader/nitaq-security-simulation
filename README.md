@@ -94,16 +94,17 @@ This will:
 ---
 
 ## Folder Structure | هيكل المشروع
-
-
+```
 Nitaq/
 │
-├─ python1.py          # Main AI pipeline
-├─ yolov4.weights      # Model weights
-├─ yolov4.cfg          # Model config
-├─ coco.names          # Label names
-├─ README.md           # Project documentation
-└─ data/               # (Optional) maps, twin files, sensor logs
+├─ python1.py        # Main AI pipeline
+├─ yolov4.weights    # Model weights
+├─ yolov4.cfg        # Model config
+├─ coco.names        # Label names
+├─ README.md         # Project documentation
+└─ data/             # (Optional) maps, twin files, sensor logs
+```
+
 
 
 ---
